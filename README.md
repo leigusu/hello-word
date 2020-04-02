@@ -1,5 +1,4 @@
 # hellow-word
-Just another repository
 
 Hi Humans!
 
